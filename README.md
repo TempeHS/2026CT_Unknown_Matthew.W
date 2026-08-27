@@ -2,13 +2,13 @@
 
 | Field | Detail |
 |---|---|
-| **Game Title** | |
-| **Student Name(s)** | |
-| **Class / Course** | |
-| **Repository** | |
-| **Unity Version** | |
-| **Document Version** | |
-| **Date** | |
+| **Game Title** | **Unplug Me** | |
+| **Student Name(s)** | **MatthewW** | |
+| **Class / Course** | **10CT1** | |
+| **Repository** | **https://github.com/TempeHS/2026CT_GameDesign_Unplug_Me_Matthew.W** | |
+| **Unity Version** | **6000.0.58f1** | |
+| **Document Version** | **0.1** | |
+| **Date** | **27/08/2026** | |
 
 ---
 
