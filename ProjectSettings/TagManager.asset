@@ -9,11 +9,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Transition
+  - Background
   - Water
   - UI
-  - player
-  - 
+  - Ground
+  - Player
   - 
   - 
   - 
