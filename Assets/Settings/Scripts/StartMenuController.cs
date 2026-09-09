@@ -4,13 +4,13 @@ using UnityEngine.SceneManagement;
 public class StartMenuController : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    public void onStartClick()
+    public void OnStartClick()
     {
         SceneManager.LoadScene("SampleScene");
     }
 
     // Update is called once per frame
-    public void onExitClick()
+    public void OnExitClick()
     {
 #if UNITY_EDITOR
         UnityEditor.EditorApplication.isPlaying = false;
